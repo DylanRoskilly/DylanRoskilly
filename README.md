@@ -1,4 +1,4 @@
-### About Me
+# About Me
 
 I'm a first year BSc Computer Science student at the University of Bath
 
